@@ -1,4 +1,3 @@
-<img width="1556" height="105" alt="image" src="https://github.com/user-attachments/assets/35e4f43a-6ec5-4880-a776-7e37b6fe95d3" /><img width="4680" height="105" alt="image" src="https://github.com/user-attachments/assets/11bcd950-3207-468f-acd5-8835b9041a52" />
 
 # Yelp_restaurant_business
 
