@@ -20,7 +20,6 @@ Out of 150k businesses, 35k are restaurants business and are open.
  Positive sentiment expressed in reviews and tips contributes to higher overall ratings and review counts for restaurants. 
 
  Consistent engagement over time is positively associated with sustained business success for restaurants.
-<img width="3429" height="403" alt="image" src="https://github.com/user-attachments/assets/2884928a-8a6a-41fa-900f-53fdf83e3f3e" />
 
 
 
